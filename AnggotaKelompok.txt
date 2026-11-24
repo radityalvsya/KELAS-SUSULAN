@@ -1,6 +1,15 @@
+<<<<<<< Updated upstream
 Muhammad Raditya Alvisya Syarif
 Permata Nurkhalida
 Daniel Adrian
 Siti Balqis
 Nicholas Kurt
 Aldin Narendra
+=======
+Muhammad Raditya Alvisya Syarif - 102022430056
+Permata Nurkhalida - 102022580020
+Daniel Adrian - 102022440011
+Siti Bilqis - 102022580043
+Nicholas Kurt - 102022400346
+Aldin Narendra - 102022440010
+>>>>>>> Stashed changes
