@@ -3,4 +3,8 @@ Permata Nurkhalida - 102022580020
 Daniel Adrian - 102022440011
 Siti Bilqis - 102022580043
 Nicholas Kurt
-Aldin Narendra
+<<<<<<< Updated upstream
+Aldin Narendra 102022440010
+=======
+Aldin Narendra - 102022440010
+>>>>>>> Stashed changes
