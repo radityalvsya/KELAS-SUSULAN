@@ -1,6 +1,9 @@
+<<<<<<< Updated upstream
 Muhammad Raditya Alvisya Syarif
 Permata Nurkhalida
 Daniel Adrian
 Siti Balqis
+=======
+>>>>>>> Stashed changes
 Nicholas Kurt
 Aldin Narendra
